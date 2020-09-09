@@ -7,19 +7,11 @@ console.log('Funções')
 
 // FUNÇÕES
 // Possuímos as funções: falar, dobro, calcularMedia
-function falar() {
-  return 'Pipipi popopo'
-}
+const falar = () =>'Pipipi popopo'
 
-function dobro(num) {
-  return num * 2
-}
+const dobro 
 
-function calcularMedia(nota1, nota2, nota3) {
-  const soma = (nota1 + nota2 + nota3)
-  const media = soma / 3
-  return media
-}
+
 
 // Vamos refatorar essas funções para a sintaxe de Arrow function
 
@@ -60,14 +52,14 @@ function ordenar(a, b) {
 
 // Crie uma função chamada calcular que receberá como parâmetro: dois números e uma função de callback
 
-
-
-
+function calcular(n1, n2 ,callback){
+  return callback(n1, n2)
+}
 
 
 
 // Faça a soma de dois números usando a função calcular
-
+const
 
 
 

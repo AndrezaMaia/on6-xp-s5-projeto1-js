@@ -1,6 +1,6 @@
 # Projeto JavaScript
 
-## Carrinho de Compras
+## Carrinho de Compras 
 
 Precisamos criar uma solução de um carrinho de compras.
 
