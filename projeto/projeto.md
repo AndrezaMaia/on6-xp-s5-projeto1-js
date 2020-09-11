@@ -10,6 +10,8 @@ Precisamos criar uma solução de um carrinho de compras.
 
 - Perguntar se a cliente possue cupom de desconto. Caso a cliente digite 10, significa que terá 10% de desconto.
 
+
+
 - Calcular o valor do subtotal (sem considerar o desconto)
 
 - Calcular o valor de desconto
